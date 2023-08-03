@@ -40,6 +40,8 @@ I enjoy collaborating with others and being part of a developer community. Conne
 
 ## 📈 GitHub Stats
 
+[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanah09)](https://github.com/farhanah09/github-readme-stats)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?farhanah09=farhanah09&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_rank=true&include_all_commits=true)
 
 ## 📊 Top Languages
