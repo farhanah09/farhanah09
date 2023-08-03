@@ -36,22 +36,15 @@ I believe in continuous learning, and currently, I'm focusing on:
 
 I enjoy collaborating with others and being part of a developer community. Connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/farhanahmad9/)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_rank=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?farhanah09=farhanah09&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_rank=true&include_all_commits=true)
 
 ## 📊 Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-## 📝 Recent Blog Postsm
-
-- [Blog Post 1](link-to-post)
-- [Blog Post 2](link-to-post)
-- [Blog Post 3](link-to-post)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?farhanah09=farhanah09&layout=compact)
 
 ## 🎉 Thanks for visiting!
 
