@@ -1,5 +1,4 @@
 # Welcome to Farhan's Profile!
-
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white) 
 
 Hello there! 👋 I'm Farhan, a passionate developer who loves coding and problem-solving. Welcome to my GitHub profile!
