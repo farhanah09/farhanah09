@@ -7,8 +7,7 @@ Hello there! 👋 I'm Farhan, a passionate developer who loves coding and proble
 
 - 🌱 I'm currently learning and exploring various programming languages and technologies.
 - 💡 I'm interested in data science, machine learning, deep learning, and other open-source projects.
-- 🎓 Currently a master's student at Carnegie Mellon University pursuing a Data Science track 
-
+- 🎓 Currently a master's student at Carnegie Mellon University pursuing a Data Science track IN Engineering and Technology Innovation Management
 ## 💻 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
