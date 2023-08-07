@@ -6,28 +6,16 @@ Hello there! 👋 I'm Farhan, a passionate developer who loves coding and proble
 ## 🚀 About Me
 
 - 🌱 I'm currently learning and exploring various programming languages and technologies.
-- 💡 I'm interested in [Your Interests], such as web development, machine learning, open-source projects, etc.
-- 🔭 I’m constantly improving my coding skills and contributing to meaningful projects.
-- 🎓 [Your Education or Background]
+- 💡 I'm interested in data science, machine learning, deep learning, and other open-source projects.
+- 🎓 Currently a master's student at Carnegie Mellon University pursuing a Data Science track 
 
 ## 💻 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** [List of Programming Languages]
-- **Web Technologies:** [List of Web Technologies]
-- **Frameworks & Libraries:** [List of Frameworks and Libraries]
-- **Version Control:** [List of Version Control Tools]
-- **IDEs/Editors:** [List of IDEs/Editors]
-- **Other Tools:** [List of Other Tools]
-
-## 🌱 What I'm Learning
-
-I believe in continuous learning, and currently, I'm focusing on:
-
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+- **Programming Languages:** C, Python, Matlab, R, SQL 
+- **Frameworks & Libraries:** Hadoop, Numpy, Pandas, Matplotlib, BeautifulSoup, Tkinter, xgboost, fasttext, jarowinkler, faiss
+- **Other Tools:** Google Analytics, PowerBI, Tableau, MATLAB, Advanced Excel, Ardoq, ArduinoIDE, SPSS, AWS, GitHub
 
 ## 🤝 Let's Connect
 
