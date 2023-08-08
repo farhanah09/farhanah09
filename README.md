@@ -3,12 +3,13 @@
 
 Hello there! 👋 I'm Farhan, a passionate developer who loves coding and problem-solving. Welcome to my GitHub profile!
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 I'm currently learning and exploring various programming languages and technologies.
-- 💡 I'm interested in data science, machine learning, deep learning, and other open-source projects.
-- 🎓 Currently a master's student at Carnegie Mellon University pursuing a Data Science track IN Engineering and Technology Innovation Management
-## 💻 Technologies & Tools
+-  I'm currently learning and exploring various programming languages and technologies.
+-  I'm interested in data science, machine learning, deep learning, and other open-source projects.
+-  Currently a master's student at Carnegie Mellon University pursuing a Data Science track IN Engineering and Technology Innovation Management
+
+## Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
@@ -16,7 +17,7 @@ Here are some of the technologies and tools I work with:
 - **Frameworks & Libraries:** Hadoop, Numpy, Pandas, Matplotlib, BeautifulSoup, Tkinter, xgboost, fasttext, jarowinkler, faiss
 - **Other Tools:** Google Analytics, PowerBI, Tableau, MATLAB, Advanced Excel, Ardoq, ArduinoIDE, SPSS, AWS, GitHub
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I enjoy collaborating with others and being part of a developer community. Connect with me on:
 
