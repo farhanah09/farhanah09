@@ -28,7 +28,3 @@ I enjoy collaborating with others and being part of a developer community. Conne
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanah09)](https://github.com/farhanah09/github-readme-stats)
 
-## 🎉 Thanks for visiting!
-
-Thank you for stopping by and checking out my GitHub profile. I'm looking forward to collaborating and learning together in the open-source community! Feel free to reach out and say hello.
-
