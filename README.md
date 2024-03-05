@@ -13,7 +13,7 @@ Hello there! 👋 I'm Farhan, a passionate developer who loves coding and proble
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** C, Python, Matlab, R, SQL 
+- **Programming Languages:** C, Python, R, SQL 
 - **Frameworks & Libraries:** Hadoop, Numpy, Pandas, Matplotlib, BeautifulSoup, Tkinter, xgboost, fasttext, jarowinkler, faiss
 - **Other Tools:** Google Analytics, PowerBI, Tableau, MATLAB, Advanced Excel, Ardoq, ArduinoIDE, SPSS, AWS, GitHub
 
