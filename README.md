@@ -7,14 +7,14 @@ Hello there! 👋 I'm Farhan, a passionate developer who loves coding and proble
 
 -  I'm currently learning and exploring various programming languages and technologies.
 -  I'm interested in data science, machine learning, deep learning, and other open-source projects.
--  Currently a master's student at Carnegie Mellon University pursuing a Data Science track in Engineering and Technology Innovation Management
+-  A recent graduate of Carnegie Mellon University with a degree in Engineering and Technology Innovation Management with a focus in Data Science
 
 ## Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** C, Python, R, SQL 
-- **Frameworks & Libraries:** Hadoop, Numpy, Pandas, Matplotlib, BeautifulSoup, Tkinter, xgboost, fasttext, jarowinkler, faiss
+- **Frameworks & Libraries:** Numpy, Pandas, Matplotlib, BeautifulSoup, Tkinter, xgboost, fasttext, jarowinkler, faiss, Sci-kit learn, SpaCy, NLTK, Transformers
 - **Other Tools:** Google Analytics, PowerBI, Tableau, MATLAB, Advanced Excel, Ardoq, ArduinoIDE, SPSS, AWS, GitHub
 
 ## Let's Connect
