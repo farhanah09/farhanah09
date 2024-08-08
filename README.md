@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 
 I enjoy collaborating with others and being part of a developer community. Connect with me on:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/farhanahmad9/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanahmad9/)
 
 
 ## 📊 Top Languages
